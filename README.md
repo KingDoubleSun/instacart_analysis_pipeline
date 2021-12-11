@@ -1,5 +1,5 @@
 # Instacart Products Analysis Pipeline
-Analysis of products performance for Instacart. The data warehouse is used in Amazon Redshift with granularity of each sell record of a single product. And a simple sample dashboard created by Tableau with Redshift as the data source, it is published in Tableau public.
+Analysis of products performance for Instacart. The data warehouse is used in Amazon Redshift with granularity of each sell record of a single product. And a simple sample dashboard created by Tableau with Redshift as the data source, it is published in Tableau public. An orchestration tool is required to combine all workflows.
 
 Source Data link: https://www.kaggle.com/c/instacart-market-basket-analysis/rules
 
