@@ -16,4 +16,11 @@ Public Sample Dashboard link: https://public.tableau.com/app/profile/shawn2408/v
 ## Data Model
 ![alt text](https://github.com/KingDoubleSun/instacart_analysis_pipeline/blob/main/images/insta_analysis.png)
 
-The Star shema is used as data model.
+The Star shema is used as the data model, the granularity of the fact table is each sell record of a product since the purpose of this analysis is focused on product level. Restructured from original data source (csv files).
+
+
+## Sample Dashboard
+A simple Dashboard with few simple analyses is created, all data sources are from Amazon Redshift. There are many more and deeper analyses can be done based on this data set. 
+
+Public Sample Dashboard link: https://public.tableau.com/app/profile/shawn2408/viz/Instacartanalysis_16392026230670/InstacartAnalysis?publish=yes
+![alt text](https://github.com/KingDoubleSun/instacart_analysis_pipeline/blob/main/images/dashboard.png)
