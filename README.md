@@ -3,4 +3,4 @@ Analysis products performance
 
 Source Data link: https://www.kaggle.com/c/instacart-market-basket-analysis/rules
 
-Public Sample Dashboard link: https://prod-apsoutheast-a.online.tableau.com/t/kingdoublesun/views/Instacartanalysis/InstacartAnalysis?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link
+Public Sample Dashboard link: https://public.tableau.com/app/profile/shawn2408/viz/Instacartanalysis_16392026230670/InstacartAnalysis?publish=yes
